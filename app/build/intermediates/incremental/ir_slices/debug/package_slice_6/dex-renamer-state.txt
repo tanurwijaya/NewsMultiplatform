@@ -1,0 +1,4 @@
+#Mon Sep 02 16:19:42 WIB 2019
+base.0=/Users/alvintanurwijaya/Documents/MultiplatformKotlin/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
